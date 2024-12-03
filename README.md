@@ -26,8 +26,15 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 Breve descrição do seu projeto - aqui e aqui
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa Chat GPT - criação do roteiro do vídeo e prompts das imagens e vídeos
+IA Generativa Midjourney - criação das imagens
+IA Generativa invideo IA - craição de vídeos
+IA Generativa XXXXXX - criação de voz que narra o vídeo
+Ferramenta InShot - finalização dos vídeos, imagens e áudio, ou seja, produção final do vídeo.
+Aplicativo de rede social Instagram - postagem do vídeo
 
+
+ 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
 
