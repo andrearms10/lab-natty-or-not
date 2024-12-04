@@ -20,7 +20,9 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
+
 # Um Mergulho Sensorial no Maravilhoso Mundo do Café
+
 
 ## 📒 Descrição
 
@@ -32,6 +34,7 @@ Para tanto, usei a IA para criar vídeos e imagens mais atrativas, interessantes
 com o sensorial e imaginário das pessoas, quase que, como sentissem as notas sensoriais dessa bebida maravilhosa e as
 transportassem para dentro da postagem, vivenciando momentos espetaculares, criando assim, uma conexão com os seguidores.
 
+
 ## 🤖 Tecnologias Utilizadas
 
 IA Generativa Chat-GPT - prompts do roteiro do vídeo, das imagens, dos vídeos e do texto narrado no video 
@@ -40,7 +43,6 @@ IA Generativa invideo IA - criação dos vídeos
 IA Generativa XXXXXX - criação de voz que narra o vídeo
 Ferramenta InShot - produção do vídeo.
 Aplicativo de rede social Instagram - postagem do vídeo
-
 
  
 ## 🧐 Processo de Criação
@@ -80,6 +82,7 @@ Ao final, o vídeo foi exportado da ferramenta InShot e a postagem foi feita no 
 
 ## 🚀 Resultados
 
+Um vídeo extremanente sensorial que gera uma conexão com o seguidor e proporciona momentos de puro prazer! 
 
 
 ## 💭 Reflexão (Opcional)
