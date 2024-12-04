@@ -28,9 +28,6 @@ Amo café especial (+80 pontos) e uma maneira de apreciar essa bebida, mundialme
 e ter momentos de descontração com amigos e de pura introspecção quando só, posto no meu Instagram vídeos de momentos
 aprazíveis com o café.
 
-Para tanto, uso a IA para criar vídeos mais atrativos, interessantes, descontraídos, com uma linguagem que mexa com o
-sensorial e imaginário das pessoas, quase que como sentissem as notas sensoriais dessa bebida maravilhosa e as
-transportassem para dentro da postagem e vivenciassem as minhas criações.
 
 ## 🤖 Tecnologias Utilizadas
 
