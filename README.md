@@ -28,9 +28,9 @@ Amo café especial (+80 pontos) e uma maneira de apreciar essa bebida, mundialme
 e ter momentos de descontração com amigos e de pura introspecção quando só, posto no meu Instagram vídeos de momentos
 aprazíveis com o café.
 
-Para tanto, uso a IA para criar vídeos mais atrativos, interessantes, descontraídos, com uma linguagem que mexa com o
-sensorial e imaginário das pessoas, quase que como sentissem as notas sensoriais dessa bebida maravilhosa e as
-transportassem para dentro da postagem e vivenciassem as minhas criações.
+Para tanto, usei a IA para criar vídeos e imagens mais atrativas, interessantes, descontraídas, com uma linguagem que mexa
+com o sensorial e imaginário das pessoas, quase que, como sentissem as notas sensoriais dessa bebida maravilhosa e as
+transportassem para dentro da postagem, vivenciando momentos espetaculares, criando assim, uma conexão com os seguidores.
 
 ## 🤖 Tecnologias Utilizadas
 
@@ -47,12 +47,12 @@ Aplicativo de rede social Instagram - postagem do vídeo
 
 Utilizei o Chat-GPT para gerar o prompt do roteiro do vídeo, nesse prompt faço descrição detalhada do que desejo e não
 desejo com a postagem, por exemplo, a utilização de uma linguagem sensorial que remeta o seguidor ao mundo do café e
-desperte sensações, gerando uma conexão com o post, a postagem será no Instagram com uso de imagens, vídeos e locução,
+desperte sensações, gerando uma conexão com o post, a postagem será no Instagram, com uso de imagens, vídeos e locução,
 dentre outros.
 
 Após várias interações e consequentemente o refinamento do roteiro, parti para a criação das imagens e vídeos.
 
-Mais uma vez o Chat GPT me auxiliou, com base no roteiro pronto, fiz várias interações para criar os prompts das
+Mais uma vez o Chat-GPT me auxiliou, com base no roteiro pronto, fiz várias interações para criar os prompts das
 imagens e vídeos.
 
 Próxima etapa foi usar o Midjourney para a geração de imagens com base nos prompts gerados pelo Chat-GPT. Imagens essas
@@ -79,7 +79,8 @@ Ao final, o vídeo foi exportado da ferramenta InShot e a postagem foi feita no 
 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
