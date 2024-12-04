@@ -87,7 +87,7 @@ Um vídeo extremanente sensorial que gera uma conexão com o seguidor e proporci
 
 ## 💭 Reflexão (Opcional)
 
-Exercício de pura criatividade, extremamente prazeroso e que em breve tentarei colocar em prática.  
+Exercício de pura criatividade e extremamente prazeroso.  
 
 ### Exemplos e Insigths
 
