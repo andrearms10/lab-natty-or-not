@@ -24,10 +24,6 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ## 📒 Descrição
 
-Amo café especial (+80 pontos) e uma maneira de apreciar essa bebida, mundialmente famosa, além de comprar excelentes cafés
-e ter momentos de descontração com amigos e de pura introspecção quando só, posto no meu Instagram vídeos de momentos
-aprazíveis com o café.
-
 
 ## 🤖 Tecnologias Utilizadas
 
