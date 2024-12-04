@@ -34,11 +34,11 @@ transportassem para dentro da postagem e vivenciassem as minhas criações.
 
 ## 🤖 Tecnologias Utilizadas
 
-IA Generativa Chat GPT - criação do roteiro do vídeo e prompts das imagens e vídeos
+IA Generativa Chat-GPT - prompt do roteiro do vídeo, prompt das imagens, prompt dos vídeos e prompt do texto narrado no video 
 IA Generativa Midjourney - criação das imagens
-IA Generativa invideo IA - craição de vídeos
+IA Generativa invideo IA - criação dos vídeos
 IA Generativa XXXXXX - criação de voz que narra o vídeo
-Ferramenta InShot - finalização dos vídeos, imagens e áudio, ou seja, produção final do vídeo.
+Ferramenta InShot - produção do vídeo.
 Aplicativo de rede social Instagram - postagem do vídeo
 
 
@@ -73,9 +73,9 @@ Chat-GPT após várias conversas e refinamentos.
 
 O arquivo de áudio foi exportado e importado no InSHot.
 
-No Inshot com os vídeos, imagens e áudio foram realizados os ajustes necessário e feita a finalização do vídeo.
+No Inshot com os vídeos, imagens e áudio foram realizados os ajustes necessários e feita a finalização do vídeo.
 
-Ao final o vídeo foi exportado da ferramenta InShot e a postagem foi feita no Instagram.
+Ao final, o vídeo foi exportado da ferramenta InShot e a postagem foi feita no Instagram.
 
 
 ## 🚀 Resultados
