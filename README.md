@@ -86,8 +86,8 @@ Um vídeo extremanente sensorial que gera uma conexão com o seguidor e proporci
 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+
+Exercício de pura criatividade, extremamente prazeroso e que em breve tentarei colocar em prática.  
 
 ### Exemplos e Insigths
 
