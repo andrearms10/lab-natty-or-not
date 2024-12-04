@@ -34,7 +34,7 @@ transportassem para dentro da postagem e vivenciassem as minhas criações.
 
 ## 🤖 Tecnologias Utilizadas
 
-IA Generativa Chat-GPT - prompt do roteiro do vídeo, prompt das imagens, prompt dos vídeos e prompt do texto narrado no video 
+IA Generativa Chat-GPT - prompts do roteiro do vídeo, das imagens, dos vídeos e do texto narrado no video 
 IA Generativa Midjourney - criação das imagens
 IA Generativa invideo IA - criação dos vídeos
 IA Generativa XXXXXX - criação de voz que narra o vídeo
