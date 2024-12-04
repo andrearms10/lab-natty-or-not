@@ -40,7 +40,7 @@ transportassem para dentro da postagem, vivenciando momentos espetaculares, cria
 IA Generativa Chat-GPT - prompts do roteiro do vídeo, das imagens, dos vídeos e do texto narrado no video 
 IA Generativa Midjourney - criação das imagens
 IA Generativa invideo IA - criação dos vídeos
-IA Generativa XXXXXX - criação de voz que narra o vídeo
+IA Generativa D-ID - criação de voz que narra o vídeo
 Ferramenta InShot - produção do vídeo.
 Aplicativo de rede social Instagram - postagem do vídeo
 
@@ -70,7 +70,7 @@ das imagens, vídeos mostrando as interações que o café possibilita ou o amig
 Com as imagens e vídeos criados estas foram importadas no InShot, onde montei a sequência dos vídeos intercalados com as
 imagens, geração de transições e demais criações.
 
-Para finalizar foi utilizada a IA XXXXX para a geração de voz que narra o vídeo. Mais uma vez, o texto foi produzido pelo
+Para finalizar foi utilizada a IA D-ID para a geração de voz que narra o vídeo. Mais uma vez, o texto foi produzido pelo
 Chat-GPT após várias conversas e refinamentos.  
 
 O arquivo de áudio foi exportado e importado no InSHot.
