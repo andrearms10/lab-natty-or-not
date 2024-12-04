@@ -23,9 +23,13 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto - aqui e aqui
+
+Amo café especial (+80 pontos) e uma maneira de apreciar essa bebida, mundialmente famosa, além de comprar excelentes cafés e ter momentos de descontração com amigos e de pura introspecção quando só, posto no meu Instagram vídeos de momentos aprazíveis com o café.
+
+Para tanto, uso a IA para criar vídeos mais atrativos, interessantes, descontraídos, com uma linguagem que mexa com o sensorial e imaginário das pessoas, quase que como sentissem as notas sensoriais dessa bebida maravilhosa e as transportassem para dentro da postagem e vivenciassem as minhas criações.
 
 ## 🤖 Tecnologias Utilizadas
+
 IA Generativa Chat GPT - criação do roteiro do vídeo e prompts das imagens e vídeos
 IA Generativa Midjourney - criação das imagens
 IA Generativa invideo IA - craição de vídeos
